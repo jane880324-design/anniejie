@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>【您的行銷公司名稱】 - 數位行銷顧問</title>
+    <link rel="stylesheet" href="styles.css"> </head>
+<body>
+
+    <header>
+        <div class="logo">您的公司名稱</div>
+        <nav>
+            <ul>
+                <li><a href="#home">首頁</a></li>
+                <li><a href="#services">服務項目</a></li>
+                <li><a href="#about">關於我們</a></li>
+                <li><a href="#contact">聯絡我們</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="home" class="hero">
+        <h1>為您的品牌創造數位影響力</h1>
+        <p>提供專業的社群媒體、內容行銷和搜尋引擎優化 (SEO) 服務。</p>
+        <a href="#contact" class="cta-button">立即諮詢</a>
+    </section>
+
+    <section id="services" class="section services">
+        <h2>🚀 我們的核心服務</h2>
+        <div class="service-list">
+            <div class="service-item">
+                <h3>社群行銷</h3>
+                <p>規劃並執行高互動性的社群內容，提升品牌忠誠度。</p>
+            </div>
+            <div class="service-item">
+                <h3>SEO/SEM</h3>
+                <p>優化網站結構與內容，讓您的潛在客戶在搜尋引擎上找到您。</p>
+            </div>
+            <div class="service-item">
+                <h3>內容策略</h3>
+                <p>撰寫有價值且引人入勝的內容，將訪客轉化為客戶。</p>
+            </div>
+        </div>
+    </section>
+
+    <section id="about" class="section about">
+        <h2>💡 關於我們的團隊</h2>
+        <p>我們是一群充滿熱情與經驗的行銷專家，專注於利用數據驅動的策略，為客戶帶來實質的業務增長。自20XX年成立以來，我們已協助超過100個品牌實現其行銷目標。</p>
+    </section>
+
+    <section id="contact" class="section contact">
+        <h2>📞 聯絡我們</h2>
+        <p>準備好讓您的品牌更上一層樓了嗎？請留下您的資訊，我們將盡快與您聯繫。</p>
+        <p>Email: info@yourcompany.com</p>
+        <p>電話: (02) XXXX-XXXX</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 您的行銷公司名稱. 版權所有.</p>
+    </footer>
+
+</body>
+</html>
